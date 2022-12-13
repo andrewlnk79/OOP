@@ -1,6 +1,6 @@
 package lesson1;
 
-public class Yacht extends Transport{
+public class Yacht extends Transport implements  CanSwim{
     private int speed;
 
     void load() {

@@ -1,7 +1,7 @@
 package lesson1;
 
 public abstract class Transport {
-    int loadCapacity;
+    private int loadCapacity;
 
     public int getLoadCapacity() {
         return loadCapacity;
@@ -10,6 +10,7 @@ public abstract class Transport {
     public void setLoadCapacity(int loadCapacity) {
         this.loadCapacity = loadCapacity;
     }
+
 
     abstract void load();
 }

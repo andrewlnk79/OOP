@@ -1,7 +1,7 @@
 package lesson1;
 
-public class Ship extends Transport {
-    int waterLine;
+public class Ship extends Transport implements CanSwim {
+   private int waterLine;
 
     public int getWaterLine() {
         return waterLine;
@@ -10,9 +10,18 @@ public class Ship extends Transport {
     public void setWaterLine(int waterLine) {
         this.waterLine = waterLine;
     }
-@Override
+
+    @Override
     void load() {
-    System.out.println("погрузка корабля");
+        System.out.println("погрузка корабля");
+
 
     }
-}
+
+    @Override
+    public void swim() {
+
+            System.out.println("плывет медленно");
+        }
+    }
+

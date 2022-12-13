@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Bus extends Transport {
-    String route;
+  private   String route;
 
     void load() {
         System.out.println("люди заходят в автобус");

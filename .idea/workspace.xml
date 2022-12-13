@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="567ddb90-658a-426e-bc30-c1c49a33b821" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Yacht.java" afterDir="false" />
+    <list default="true" id="567ddb90-658a-426e-bc30-c1c49a33b821" name="Changes" comment="lesson1/2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/CanSwim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Yacht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Yacht.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,7 +51,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -88,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670925609855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson1">
+      <created>1670931140023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670931140023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="lesson1" />
+    <MESSAGE value="lesson1/2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson1/2" />
   </component>
 </project>
